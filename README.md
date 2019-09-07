@@ -1,4 +1,4 @@
-# rutb.us: plaintext Rutgers bus predictions
+# [rutb.us](https://rutb.us/): plaintext Rutgers bus predictions
 
 Usage: `curl https://rutb.us/<route_or_stop>`
 
@@ -20,7 +20,7 @@ rutbus()
 
 ## Development
 
-This project is heavily inspired by wttr.in.
+This project is heavily inspired by [wttr.in](http://wttr.in/).
 
 It was built using AWS Lambda, hooked up to AWS API Gateway. The custom domain is managed by CloudFront and Route 53. Logging is automatically done by CloudWatch. It was fun to play with the tools that will eventually replace my job!
 
