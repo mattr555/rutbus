@@ -1,0 +1,45 @@
+id,long_name,short_names,campus
+4229492,College Avenue Student Center,"casc,rsc",cac
+4229496,Student Activities Center Northbound,sac,cac
+4229500,Stadium,stadium,busch
+4229504,Werblin Back Entrance,werblin,busch
+4229508,Hill Center (NB),hill,busch
+4229512,Science Building,"sci,arc",busch
+4229516,Library of Science,lsm,busch
+4229520,Busch Suites,"suites,davidson",busch
+4229524,Busch Student Center,"bsc,bcc",busch
+4229528,Buell Apartments,buell,busch
+4229532,New Brunswick Train Station-George Street stop,train,downtown
+4229536,New Brunswick Train Station-Somerset Street stop,train,downtown
+4229538,Red Oak Lane,"redoak,oak",c/d
+4229542,Food Sciences Building,"food,fsb",c/d
+4229546,Katzenbach,"katzenbach,katz",c/d
+4229550,College Hall,"college",c/d
+4229554,Northbound Public Safety Building on George Street,"publicsafety",downtown
+4229558,Zimmerli Arts Museum,"zimm",cac
+4229562,Werblin Main Entrance,"werblin",busch
+4229566,Davidson Hall,"suites,davidson",busch
+4229570,Livingston Plaza,plaza,livi
+4229574,Livingston Student Center,lsc,livi
+4229576,Quads,quads,livi
+4229578,Allison Road Classrooms,"sci,arc",busch
+4229582,Bravo Supermarket,bravo,downtown
+4229584,Colony House,colony,cac
+4229588,Rockoff Hall - 290 George Street,rockoff,downtown
+4229592,Southbound Public Safety Building on George Street,publicsafety,downtown
+4229596,Lipman Hall,lipman,c/d
+4229600,Biel Road,biel,c/d
+4229604,Henderson,henderson,c/d
+4229608,Gibbons,gibbons,c/d
+4229612,George Street Northbound at Liberty Street,liberty,downtown
+4229616,George Street Northbound at Paterson Street,paterson,downtown
+4229620,Scott Hall,"scott,yard",cac
+4229624,Nursing School,nursing,downtown
+4229626,Visitor Center,visitor,busch
+4229680,RBHS Piscataway Hoes Lane,"rbhs",busch
+4229682,RBHS Piscataway Hoes Lane (hidden arrival),"rbhs",busch
+4229694,Public Safety Building on Commercial Southbound,publicsafety,downtown
+4229696,Student Activities Center Southbound,sac,cac
+4229698,George Street Southbound at Paterson Street,paterson,downtown
+4230628,Livingston Health Center,livihealth,livi
+4231636,Hill Center (SB),hill,busch
