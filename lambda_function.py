@@ -100,7 +100,7 @@ def lambda_handler(event, context):
             res += '\n' + stop_name + '\n' + '=' * len(stop_name) + '\n'
             for route_id in sorted(stop_times[stop_name].keys()):
                 route_name = [i['long_name'] for i in routes if i['id'] == route_id][0]
-                rendered_route = right_pad(route_name, 15)
+                rendered_route = right_pad(route_name, 16)
                 rendered_times = ': ' + ", ".join(stop_times[stop_name][route_id][:3])
                 ind = rendered_route.find('\n')
                 res += rendered_route[:ind] + rendered_times + rendered_route[ind:] + '\n'

@@ -13,8 +13,7 @@ Even simpler access to the data! Add to your `.bashrc`, `.zshrc`, etc.
 ```bash
 rutbus()
 {
-    local request="https://rutb.us/${1}"
-    curl "$request"
+    curl "https://rutb.us/${1}"
 }
 ```
 
