@@ -1,8 +1,7 @@
 import csv
-import json
 from collections import defaultdict
 from datetime import datetime, timezone
-from botocore.vendored import requests
+import requests
 
 from secrets import transloc_key
 
@@ -109,4 +108,6 @@ def lambda_handler(event, context):
         
     else:
         return response(404, 'Route or stop not found. Available requests:\n\n' + help_page())
-    
+
+if __name__ == "__main__":
+    print(lambda_handler({'httpMethod': 'GET', 'pathParameters': {'proxy': 'wk2'}}, None))

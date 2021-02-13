@@ -11,16 +11,16 @@ id,long_name,short_names,campus
 4229528,Buell Apartments,buell,busch
 4229532,New Brunswick Train Station-George Street stop,train,downtown
 4229536,New Brunswick Train Station-Somerset Street stop,train,downtown
-4229538,Red Oak Lane,"redoak,oak",c/d
+4253698,Red Oak Lane,"redoak,oak",c/d
 4229542,Food Sciences Building,"food,fsb",c/d
 4229546,Katzenbach,"katzenbach,katz",c/d
-4229550,College Hall,"college",c/d
+4253700,College Hall,"college",c/d
 4229554,Northbound Public Safety Building on George Street,"publicsafety",downtown
 4229558,Zimmerli Arts Museum,"zimm",cac
 4229562,Werblin Main Entrance,"werblin",busch
 4229566,Davidson Hall,"suites,davidson",busch
 4229570,Livingston Plaza,plaza,livi
-4229574,Livingston Student Center,lsc,livi
+4254110,Livingston Student Center,lsc,livi
 4229576,Quads,quads,livi
 4229578,Allison Road Classrooms,"sci,arc",busch
 4229582,Bravo Supermarket,bravo,downtown
@@ -43,3 +43,5 @@ id,long_name,short_names,campus
 4229698,George Street Southbound at Paterson Street,paterson,downtown
 4230628,Livingston Health Center,livihealth,livi
 4231636,Hill Center (SB),hill,busch
+4253718,SoCam Apts,socam,downtown
+4254112,Engineering Building,eng,busch

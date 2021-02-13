@@ -1,1 +1,5 @@
 .vscode
+secrets.py
+
+# folders of dependencies
+**/*

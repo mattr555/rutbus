@@ -1,6 +1,6 @@
-# [rutb.us](https://rutb.us/): plaintext Rutgers bus predictions
+# [rutbus](https://rutbus.mattr555.me/): plaintext Rutgers bus predictions
 
-Usage: `curl https://rutb.us/<route_or_stop>`
+Usage: `curl https://rutbus.mattr555.me/<route_or_stop>`
 
 ## Demo
 
@@ -13,7 +13,7 @@ Even simpler access to the data! Add to your `.bashrc`, `.zshrc`, etc.
 ```bash
 rutbus()
 {
-    curl "https://rutb.us/${1}"
+    curl "https://rutbus.mattr555.me/${1}"
 }
 ```
 
